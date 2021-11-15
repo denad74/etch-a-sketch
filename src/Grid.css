@@ -1,0 +1,17 @@
+.board {
+  background-color: rgb(51, 126, 175);
+  padding: 20px;
+}
+.grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.grid-content {
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: inline-flex;
+}

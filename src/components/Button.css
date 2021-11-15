@@ -1,0 +1,8 @@
+button {
+  background-color: rgb(78, 8, 78);
+  color: #fff;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 5px 20px;
+  font-size: 16px;
+}
